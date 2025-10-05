@@ -20,7 +20,7 @@ Hey! I’m Egor, a Java Software Engineer who loves crafting scalable systems an
 ### 📢 Visitor count
 
 <div align="center"> 
-  <img src="https://profile-counter.glitch.me/RyanReyMorris/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=RyanReyMorris&color=green" alt="Visitor's Count" />
 </div>
 
 ---
