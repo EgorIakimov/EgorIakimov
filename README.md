@@ -3,9 +3,9 @@
 <p align="center"><strong>Java Software Engineer | Backend Wizard | Microservices Enthusiast</strong></p>
 
 <p align="center">
-  <a href="https://github.com/RyanReyMorris"><img src="https://img.shields.io/badge/GitHub-Check%20it%20Out-black?style=social&logo=github" alt="GitHub"/></a>
+  <a href="https://github.com/EgorIakimov"><img src="https://img.shields.io/badge/GitHub-Check%20it%20Out-black?style=social&logo=github" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/egor-iakimov"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:ryanreymorris@gmail.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20Line-red?style=social&logo=gmail" alt="Email"/></a>
+  <a href="mailto:iamegoriakimov@gmail.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20Line-red?style=social&logo=gmail" alt="Email"/></a>
   <a href="resume.pdf"><img src="https://img.shields.io/badge/Resume-Grab%20It-green?style=social&logo=pdf" alt="Resume"/></a>
 </p>
 
@@ -20,7 +20,7 @@ Hey! I’m Egor, a Java Software Engineer who loves crafting scalable systems an
 ### 📢 Visitor count
 
 <div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=RyanReyMorris&color=green" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=EgorIakimov&color=green" alt="Visitor's Count" />
 </div>
 
 ---
@@ -41,21 +41,21 @@ Hey! I’m Egor, a Java Software Engineer who loves crafting scalable systems an
 
 ### 📈 My GitHub Vibes
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanReyMorris&theme=dracula" alt="GitHub Streak"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanReyMorris&layout=compact&theme=dracula" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EgorIakimov&theme=dracula" alt="GitHub Streak"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgorIakimov&layout=compact&theme=dracula" alt="Top Languages"/>
 
 
 ---
 
 ### 🌟 Cool Stuff I’ve Built
 
-- **[Corporate License Generator](https://github.com/RyanReyMorris/license-generator-v2)**  
+- **[Corporate License Generator](https://github.com/EgorIakimov/license-generator-v2)**  
    Java/Angular app for generating corporate licenses.
 
-- **[Instagram sales bot](https://github.com/RyanReyMorris/instagram-sales-bot)**  
+- **[Instagram sales bot](https://github.com/EgorIakimov/instagram-sales-bot)**  
   A bot for sending messages to Instagram users and exporting traffic to Telegram.
 
-- **[Portfolio template](https://github.com/RyanReyMorris/portfolio)**  
+- **[Portfolio template](https://github.com/EgorIakimov/portfolio)**  
   Just cool portfolio landing page, fork it!
 
 
